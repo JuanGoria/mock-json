@@ -1,0 +1,26 @@
+[    
+    {
+        "listaResultado": [ 
+            
+            {
+            "descripcion": "CAPITAS",
+            "value": "1",
+            "descripcionLarga": null
+            }, 
+            {
+            "descripcion": "SEGUROS",
+            "value": "2",
+            "descripcionLarga": null
+            }, 
+            {
+            "descripcion": "OBRAS SOCIALES",
+            "value": "3",
+            "descripcionLarga": null
+            }
+        ],
+        "cantidadRegistrosTotales": 3,
+        "numeroPagina": null,
+        "tamanoPagina": null,
+        "errores": []
+    }
+]
